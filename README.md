@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JanmayHem
+- 👋 Hi, I’m Janmay Joshi
 - 👀 I’m interested in Data Science, 
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on various topics like ML, Data Science or DSA
