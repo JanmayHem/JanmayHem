@@ -5,7 +5,7 @@
 - 📫 Reach me on all socials as @JanMayhem or @j_nmay
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanmayHem)](https://github.com/JanmayHem/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanmayHem)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 JanmayHem/JanmayHem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
