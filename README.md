@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Janmay Joshi
-- 👀 I’m interested in Data Science, 
+- 👀 I’m interested in Data Science, Machine Learning and a lot more
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on various topics like ML, Data Science or DSA
 - 📫 Reach me on all socials as @JanMayhem or @j_nmay
