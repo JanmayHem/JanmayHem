@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on various topics like ML, Data Science or DSA.
 - 📫 Reach me on all socials by @JanMayhem or @j_nmay.
-- ✨ qwertyuiop
+<!-- - ✨ qwertyuiop
 - 🔆 asdfghjkl
-- ⚕️ zxcvbnm
+- ⚕️ zxcvbnm -->
 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=JanmayHem) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanmayHem)](https://github.com/anuraghazra/github-readme-stats)
