@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on various topics like ML, Data Science or DSA.
 - 📫 Reach me on all socials by @JanMayhem or @j_nmay.
 
-- 🌚 _Feel free to add something cool on this typical Readme! _
+- 🌚 _Feel free to add something cool on this typical Readme!_
 <!-- - ✨ qwertyuiop
 - 🔆 asdfghjkl
 - ⚕️ zxcvbnm -->
