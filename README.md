@@ -9,7 +9,7 @@
 - 🔆 asdfghjkl
 - ⚕️ zxcvbnm -->
 
-![OctoCat Not Loading :(](https://github.com/JanmayHem/JanmayHem/blob/main/NUX_Octodex.gif)
+![OctoCat Not Loading :(](<img src="https://github.com/JanmayHem/JanmayHem/blob/main/NUX_Octodex.gif" width="50" height="50"/>) 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=JanmayHem) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanmayHem)](https://github.com/anuraghazra/github-readme-stats)
 
