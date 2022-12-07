@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on various topics like ML, Data Science or DSA.
 - 📫 Reach me on all socials by @JanMayhem or @j_nmay.
+
+_- 🌚 Feel free to add something cool on this typical Readme! _
 <!-- - ✨ qwertyuiop
 - 🔆 asdfghjkl
 - ⚕️ zxcvbnm -->
