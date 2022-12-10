@@ -11,7 +11,7 @@
 
 ![Janmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=JanmayHem&theme=github_dark&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanmayHem&theme=github_dark&show_icons=true)
 
-<!-- <img src="https://github.com/JanmayHem/JanmayHem/blob/main/NUX_Octodex.gif" width="250" height="250" style="border-radius:50%"/>   -->
+<img src="https://github.com/JanmayHem/JanmayHem/blob/main/NUX_Octodex.gif" width="250" height="250" style="border-radius:50%"/>  
 
 <!---
 JanmayHem/JanmayHem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
