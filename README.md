@@ -12,6 +12,7 @@
 ![Janmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=JanmayHem&theme=github_dark&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanmayHem&theme=github_dark&show_icons=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JanmayHem&theme=tokyonight_duo)](https://git.io/streak-stats) 
+
 <!-- <img src="https://github.com/JanmayHem/JanmayHem/blob/main/NUX_Octodex.gif" width="250" height="250" style="border-radius:50%"/> -->
 <!-- [![Janmay's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JanmayHem&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
