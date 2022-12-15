@@ -14,7 +14,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=JanmayHem&theme=tokyonight_duo)](https://git.io/streak-stats) 
 
 <!-- <img src="https://github.com/JanmayHem/JanmayHem/blob/main/NUX_Octodex.gif" width="250" height="250" style="border-radius:50%"/> -->
-[![Janmay's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JanmayHem&theme=github-compact&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Janmay's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JanmayHem&theme=github-compact&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <!---
 JanmayHem/JanmayHem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
