@@ -4,7 +4,7 @@
 |-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
 | • 👋 Hi, I’m Janmay Joshi.<br>• 👀 I’m interested in Data Science, Machine Learning and a lot more.<br>• 🌱 I’m currently learning.<br>• 💞️ I’m looking to collaborate on various topics like ML, Data Science or DSA.<br>• 📫 Reach me on all socials by @JanMayhem or @j_nmay.<br>• 🌚 _Feel free to suggest something cool on this typical Readme!_ | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JanmayHem&theme=github_dark&show_icons=true) |
 
-| GitHub Stats                                                                                                         | GitHub Streak                                                                                              |
+|     Stats                                                                                                         |     Streak                                                                                              |
 |-----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | ![Janmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=JanmayHem&theme=github_dark&show_icons=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=JanmayHem&theme=tokyonight_duo)](https://git.io/streak-stats)
 
