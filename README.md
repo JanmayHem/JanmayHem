@@ -12,6 +12,8 @@
 [![Janmay's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JanmayHem&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- github-compacet, tokyo-night -->
   
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,discord,git,github,idea,java,linkedin,matlab,mysql,py,tensorflow,twitter,unity)](https://skillicons.dev)
+  
 </div>
 
 <!---
