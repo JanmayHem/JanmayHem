@@ -13,7 +13,8 @@
 <!-- github-compacet, tokyo-night -->
   
   [![My Skills](https://skillicons.dev/icons?i=c,cpp,discord,git,github,idea,java,linkedin,matlab,mysql,py,tensorflow,twitter,unity)](https://skillicons.dev)
-  
+  <br>![](https://komarev.com/ghpvc/?username=JanmayHem&color=green)
+<!--   <br>![](https://hit.yhype.me/github/profile?user_id=77008411) -->
 </div>
 
 <!---
