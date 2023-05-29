@@ -9,7 +9,7 @@
 | ![Janmay's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JanmayHem&theme=tokyonight&show_icons=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=JanmayHem&theme=tokyonight)](https://git.io/streak-stats)
 
 <!-- <img src="https://github.com/JanmayHem/JanmayHem/blob/main/NUX_Octodex.gif" width="250" height="250" style="border-radius:50%"/> -->
-[![Janmay's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JanmayHem&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Janmay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JanmayHem&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- github-compacet, tokyo-night -->
   
   [![My Skills](https://skillicons.dev/icons?i=c,cpp,git,github,idea,java,matlab,mysql,py,tensorflow,unity)](https://skillicons.dev)
