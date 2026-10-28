@@ -10,8 +10,23 @@
 
 [![Janmay's GitHub activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JanmayHem&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,git,github,idea,java,matlab,mysql,py,tensorflow,unity)](https://skillicons.dev)
-  <br>![](https://komarev.com/ghpvc/?username=JanmayHem&color=green)
+  [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,anaconda,postgres,mysql,docker,aws,fastapi,go,c,cpp,java,js,git,github,linux,bash,vscode&perline=10)](https://skillicons.dev)
+  <br>
+  ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+  ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge)
+  ![Dagster](https://img.shields.io/badge/Dagster-7A5AF8?style=for-the-badge)
+  ![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white)
+  ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+  <br>
+  ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+  ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+  ![LLMs](https://img.shields.io/badge/LLMs_%26_Embeddings-7aa2f7?style=for-the-badge)
+  ![Vector Search](https://img.shields.io/badge/Vector_Search-bb9af7?style=for-the-badge)
+  ![Entity Resolution](https://img.shields.io/badge/Entity_Resolution-9ece6a?style=for-the-badge)
+  <br><br>![](https://komarev.com/ghpvc/?username=JanmayHem&color=green)
 </div>
 
 <!---
